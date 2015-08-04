@@ -6,7 +6,7 @@
 	<groupId>com.acoreful</groupId>
 	<artifactId>samples</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>war</packaging>
 
 	<name>acf-samples</name>
 	<url>http://maven.apache.org</url>
